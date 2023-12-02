@@ -1,6 +1,7 @@
 ## テキスト分類
 ### テキスト分類の流れ
 ![Alt text](./image/image.png)
+※ 画像引用元のURL：https://dev.classmethod.jp/articles/huggingface-jp-text-classification/
 
 ### 実行ファイル
 - sentiment_analysis.ipynb
